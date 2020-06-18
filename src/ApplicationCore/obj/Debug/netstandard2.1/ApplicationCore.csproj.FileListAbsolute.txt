@@ -1,0 +1,9 @@
+/home/alex/Documents/projects/test_library/src/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.deps.json
+/home/alex/Documents/projects/test_library/src/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.dll
+/home/alex/Documents/projects/test_library/src/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.pdb
+/home/alex/Documents/projects/test_library/src/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csprojAssemblyReference.cache
+/home/alex/Documents/projects/test_library/src/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfoInputs.cache
+/home/alex/Documents/projects/test_library/src/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfo.cs
+/home/alex/Documents/projects/test_library/src/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csproj.CoreCompileInputs.cache
+/home/alex/Documents/projects/test_library/src/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.dll
+/home/alex/Documents/projects/test_library/src/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.pdb

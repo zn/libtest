@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvqVhQqbsQirWnND0kKaGXdIi1RPbj9yQ98tf6XajW5ct7fegpmOnBopJVF5qR53lz4SOeBwzSFY9giXJoEV3Q==",
+  "success": true,
+  "projectFilePath": "/home/alex/Documents/projects/test_library/src/ApplicationCore/ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

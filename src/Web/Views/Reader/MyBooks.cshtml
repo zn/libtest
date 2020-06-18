@@ -1,0 +1,30 @@
+@model IEnumerable<BookViewModel>;
+
+@{
+    ViewData["Title"] = "Библиотека";
+}
+
+<p>У вас @Model.Count() книг</p>
+<a asp-action="Index" asp-controller="Library">На главную</a>
+
+<div class="container">
+    <div class="row">
+
+        @foreach(var book in Model){
+            <div class="col-4 p-3">
+                <div class="card">
+                    <img src="@book.PosterUrl" class="card-img-top mx-auto" style="max-width: 90%;" alt="@book.Title">
+
+                    <div class="card-body">
+                        <h5 class="card-title">@book.Title</h5>
+                        <p class="card-text">@book.Author</p>
+                        <p>Год: @(book.PublishDate?.Year.ToString() ?? "неизвестно")</p>
+                        <a asp-controller="Library" asp-action="Return"
+                            asp-route-id="@book.Id" class="btn btn-primary">Сдать</a>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
